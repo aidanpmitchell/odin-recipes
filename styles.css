@@ -1,0 +1,14 @@
+body {
+    background-color: black;
+    color: white;
+    font-family: Helvetica;
+}
+
+.title {
+    color: purple;
+    font-weight: bold;  
+}
+
+.desc {
+    font-weight: bold;
+}
